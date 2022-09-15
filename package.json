@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jeonhyoungmin/220915-build-remote/issues"
   },
-  "homepage": "https://github.com/jeonhyoungmin/220915-build-remote#readme"
+  "homepage": "https://github.com/jeonhyoungmin/220915-build-remote#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
 }
